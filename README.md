@@ -10,6 +10,7 @@ Hệ thống báo cháy thông minh được thiết kế giám sát các dữ l
 * Cảm biến nhiệt độ, độ ẩm DHT11
 * LED
 * Buzzer
-* Động cơ DC
+* Động cơ DC (cho quạt gió)
 
 ## Sơ đồ khối
+![flowchart.png](flowchart.png)
