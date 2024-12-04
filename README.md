@@ -14,3 +14,10 @@ Hệ thống báo cháy thông minh được thiết kế giám sát các dữ l
 
 ## Sơ đồ khối
 ![flowchart.png](flowchart.png)
+
+## Flow Node-RED
+![Node-RED flow.png](Node-RED flow.png)
+
+## Kết nối MQTT
+Sử dụng sever MQTT trên cloud của HiveMQ
+![HiveMQ detail.png](HiveMQ detail.png)
